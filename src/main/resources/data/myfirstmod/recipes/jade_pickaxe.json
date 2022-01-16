@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "x": {
+      "item": "myfirstmod:jade"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "myfirstmod:jade_pickaxe",
+    "count": 1
+  }
+}

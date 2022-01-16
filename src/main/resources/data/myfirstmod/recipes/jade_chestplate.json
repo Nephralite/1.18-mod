@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "x x",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "myfirstmod:jade"
+    }
+  },
+  "result": {
+    "item": "myfirstmod:jade_chestplate",
+    "count": 1
+  }
+}

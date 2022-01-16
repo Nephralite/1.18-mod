@@ -1,0 +1,9 @@
+{
+  "entity.mimic.ambient": {
+    "sounds": [
+      "myfirstmod:entity_mimic_ambient"
+    ]
+  }
+
+
+}

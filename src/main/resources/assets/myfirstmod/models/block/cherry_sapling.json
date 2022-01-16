@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "myfirstmod:blocks/cherry_sapling"
+  }
+}

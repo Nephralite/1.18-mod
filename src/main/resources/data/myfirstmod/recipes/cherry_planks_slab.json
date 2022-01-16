@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "myfirstmod:cherry_planks"
+    }
+  },
+  "result": {
+    "item": "myfirstmod:cherry_planks_slab",
+    "count": 6
+  }
+}

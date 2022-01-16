@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values" : [
+    "myfirstmod:jade_ore",
+    "myfirstmod:jade_block",
+    "myfirstmod:dulled_jade",
+    "myfirstmod:jade_block_slab",
+    "myfirstmod:jade_block_stairs"
+  ]
+}

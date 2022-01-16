@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xx",
+    "xx",
+    "xx"
+  ],
+  "key": {
+    "x": {
+      "item": "myfirstmod:cherry_planks"
+    }
+  },
+  "result": {
+    "item": "myfirstmod:cherry_door",
+    "count": 2
+  }
+}
